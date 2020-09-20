@@ -9,23 +9,26 @@
 
 ## Nom
 
-Skywalker
+KOUWE
 
 ## Prénom
 
-Luke
+Verlaine élodie
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle élodie.
+J'aime les sujets qui touchent l'intéllignece artificielle.
+J'aime également la cuisine diététique et je suis aussi intiguée par la nano-technologie.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+J'ai des connaissances de base en programmation dans certains langages tels que: 
+-JAVA
+-C++
+-PYTHON
+-PHP
+-RUBY
 
-J'ai hâte d'apprendre à programmer en JavaScript.
+J'aime je changement et par conséquent la monotonie m'ennuie énormément.
+==> J'ai hâte d'apprendre à programmer en JavaScript.
